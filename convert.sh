@@ -2,13 +2,13 @@
 
 cd trabalhon1
 
-#descompactando 
+#descompactando1 
 unzip -q imagens-livros.zip
-#compactando
+#compactando1
 cd imagens-livros
 
 convert *.jpg teste.png
-#diretório
+#diretório1
 mkdir convertidas
 
 mv teste*.png convertidas
